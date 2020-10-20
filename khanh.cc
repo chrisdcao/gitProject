@@ -12,3 +12,6 @@ This is a new one
 using namespace std;
 
 int main()
+#include <iostream>
+using namespace std;
+
