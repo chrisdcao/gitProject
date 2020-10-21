@@ -7,7 +7,6 @@ int main() {
                 This is just the demo for git
                 This is just a demo for git
 }
-Adding one more line into this file
 This is a new one 
 #include <iostream>
 using namespace std;
