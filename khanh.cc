@@ -10,7 +10,6 @@ int main() {
 This is a new one 
 #include <iostream>
 using namespace std;
-This is just for the demo of Git
 
 int main()
 #include <iostream>
